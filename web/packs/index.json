@@ -1,6 +1,7 @@
 {
   "packs": [
-    "alfa1918_rus.json"
+    "alfa1918_rus.json",
+    "TeoremaTarana.json"
   ],
   "homeserver_url": "https://matrix.cutefunny.art"
 }
