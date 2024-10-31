@@ -2,7 +2,8 @@
   "packs": [
     "alfa1918_rus.json",
     "TeoremaTarana.json",
-    "grodneieldkwdkie.json"
+    "grodneieldkwdkie.json",
+    "onabol_news.json"
   ],
   "homeserver_url": "https://matrix.cutefunny.art"
 }
